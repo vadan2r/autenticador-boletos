@@ -18,10 +18,19 @@ Projeto Criando um Serviço Autenticador de Boleto - Exercício DIO Bootcamp
 
 5. Validação da camada User Interface (também com o Copilot)
 
+
 IMAGENS EXEMPLOS:
+
+- Criando function no Azure:
 
 ![Criando function no Azure](image.png)
 
+
+- Edição código da function no Azure:
+
 ![Edição código da function](image-1.png)
+
+
+- Criando boleto
 
 ![Criar boleto](image-2.png)
